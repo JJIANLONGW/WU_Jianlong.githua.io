@@ -1,0 +1,7 @@
+public class Pseudocode{
+    public static void main(String[] args){
+        读取文件参数,获取对象信息;
+        对对象进行提问;
+        根据对象信息进行提问;
+    }
+}
